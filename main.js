@@ -1,3 +1,3 @@
 console.log(document.cookie);
-document.cookie +=';jake=777;';
+document.cookie = "doSomethingOnlyOnce=3; domain=ft.com";
 console.log(localStorage);
